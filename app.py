@@ -1,3 +1,5 @@
+# instalar biblioteca winapps  = No terminal digite pip install winapps
+
 # bibliotecas
 import platform as p
 import winapps as w
